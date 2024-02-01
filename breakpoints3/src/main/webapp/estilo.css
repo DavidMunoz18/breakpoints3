@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+div{
+	border: solid black;
+}
+.verde{
+	background-color: limegreen;
+}
+.azul{
+	background-color: blue;
+}
+.gris{
+	background-color: grey;
+}
+.azulc{
+	background-color: skyblue;
+}
+.naranja{
+	background-color: orange;
+}
